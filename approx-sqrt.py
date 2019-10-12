@@ -12,4 +12,6 @@ def sqrt(x):
 
 
 # Calculate sqrt of 8
-sqrt(8.0)
+x = float(input("enter number"))
+print(sqrt(x))
+print(sqrt(x)**2)
